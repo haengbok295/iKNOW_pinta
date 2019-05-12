@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.navdraw.NavDrawer">
+    <item
+        android:id="@+id/akun"
+        android:title="Akun" />
+    <item
+        android:id="@+id/bahasa"
+        android:title="Bahasa" />
+    <item
+        android:id="@+id/sk"
+        android:title="Syarat dan Ketentuan" />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out"/>
+
+
+</menu>
